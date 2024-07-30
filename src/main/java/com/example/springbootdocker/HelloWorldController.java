@@ -3,7 +3,7 @@ package com.example.springbootdocker;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/hello")
+@RequestMapping("/")
 public class HelloWorldController {
 
 
